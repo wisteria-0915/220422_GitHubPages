@@ -21,6 +21,6 @@ permalink: /
 [BloodBorne]https://www.playstation.com/ja-jp/games/bloodborne/  
 　　　　　　　　　　など  
 です
-
+ちょっと時間がないので後で再開します
 
 
