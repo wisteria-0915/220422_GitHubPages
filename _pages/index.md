@@ -8,9 +8,9 @@ permalink: /
 
 
 **初めまして！！**　 Wisteriaと言います！　  
-初めてwebページを作るとのことですが、何も内容がないよu...ので！　好きな**エルデンリング**について紹介したいなと思います！  
+初めてwebページを作るとのことですが、何も内容がないよu...ので！　好きな**フロムゲー**について紹介したいなと思います！  
   
-# ELDEN RING とは  
+# フロムゲー とは  
 フロムゲーってご存知ですか？  
 特に"ソウルライク"というものなんですが...  
 まぁ一言で言うなら**死にゲー**です！
@@ -19,7 +19,8 @@ permalink: /
 [ダークソウルシリーズ]https://www.darksouls.jp/  
 [SEKIRO]https://www.sekiro.jp/  
 [BloodBorne]https://www.playstation.com/ja-jp/games/bloodborne/  
-など
+　　　　　　　　　　など  
+です
 
 
 ---
